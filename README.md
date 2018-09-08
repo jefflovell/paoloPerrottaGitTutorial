@@ -1,2 +1,2 @@
 # paoloPerrottaGitTutorial
-Plural Sight introduction to Git course by Paolo Perrotta
+Plural Sight introduction to Git course by Paolo Perrotta a
